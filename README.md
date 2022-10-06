@@ -4,16 +4,27 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=raulriato" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=raulriato" height="150" alt="languages graph"  />
-</div>
+<h4>Contact me:</h4>
+
+<a href="https://www.linkedin.com/in/raulriato/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  
+###
+<div>
+  <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=raulriato" height="150" alt="stats graph"  />
+  
+
+###
+
+  <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&username=raulriato" height="152" alt="languages graph"  />
 
 ###
 
 <h1 align="left">Aboute me:</h1>
 
-<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning Postgresql<br><br>🎯 Always trying to make the world a better place to live<br><br>🎲 i'm passionate about games of all kind<br><br>:notes: one of the most random music tastes you'll see, probably</p>
+<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning <strong>Postgresql</strong><br><br>🎯 Always trying to make the world a better place to live<br><br>🎲 i'm passionate about games of all kind<br><br>:notes: one of the most random music tastes you'll see, probably</p>
+</div>
 
 ###
 
@@ -32,7 +43,7 @@
 
 ###
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/raulriato/raulriato/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
