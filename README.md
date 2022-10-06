@@ -23,7 +23,7 @@
 
 <h1 align="left">Aboute me:</h1>
 
-<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning <strong>Postgresql</strong><br><br>🎯 Always trying to make the world a better place to live<br><br>🎲 i'm passionate about games of all kind<br><br>:notes: one of the most random music tastes you'll see, probably</p>
+<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning <strong>Postgresql</strong><br><br>🎯 Always trying to make the world a better place to live<br><br>🎲 I'm passionate about games of all kind<br><br>:notes: one of the most random music tastes you'll see, probably</p>
 </div>
 
 ###
