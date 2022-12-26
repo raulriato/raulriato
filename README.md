@@ -20,7 +20,11 @@
 
 <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=4&theme=tokyonight&hide_border=false&username=raulriato" height="146" alt="languages graph"  /> 
 
-<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning <strong>typescript</strong><br><br>🎯 Always trying to make the world a better place to live<br><br>🎲 I'm passionate about games of all kind<br><br>:notes: One of the most random music tastes you'll see, probably</p>
+<p align="left">✨ Creating bugs since 2022<br>
+  <br>📚 I'm currently learning <strong>Vue.js</strong><br>
+  <br>🎯 Always trying to make the world a better place to live<br>
+  <br>🎲 I'm passionate about games of all kind<br>
+  <br>:notes: One of the most random music tastes you'll see, probably</p>
 
 ###
 
