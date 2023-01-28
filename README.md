@@ -9,8 +9,12 @@
 <h4>Contact me:</h4>
 
 <a href="https://www.linkedin.com/in/raulriato/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"           height="24" alt="linkedin logo"  />
+</a>
+
+<a href="mailto:raulriato@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="linkedin logo"  />
+</a>
   
 ###
 
@@ -28,24 +32,74 @@
 
 ###
 
-<h2 align="left">I code with:</h2>
+<h2 align="left">Technologies and tools i use:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+     <img src="https://user-images.githubusercontent.com/106850340/215276765-decbd563-07df-4248-9724-c185bf7c8d41.svg" height="40" width="52" alt="prisma        logo"/>
+  </a>
 </div>
+<div align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgres logo"  />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52"                      alt="amazonwebservices logo"  />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  </a>
+  <a href="https://trello.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+  </a>
+  <a href="https://www.heroku.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+     <img src="https://user-images.githubusercontent.com/106850340/215276611-9d183022-90b0-4560-93d4-bf7e90f8ac88.svg" height="40" width="52" alt="vercel        logo"  />
+  </a>
+</div>![prisma-svgrepo-com]()
+
+
+
 
 ###
 
 ![Snake animation](https://github.com/raulriato/raulriato/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
