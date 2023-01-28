@@ -93,10 +93,6 @@
   <a href="https://vercel.com/" target="_blank">
      <img src="https://user-images.githubusercontent.com/106850340/215276611-9d183022-90b0-4560-93d4-bf7e90f8ac88.svg" height="40" width="52" alt="vercel        logo"  />
   </a>
-</div>![prisma-svgrepo-com]()
-
-
-
 
 ###
 
