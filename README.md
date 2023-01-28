@@ -62,8 +62,8 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   </a>
   <a href="https://www.prisma.io/" target="_blank">
-     <img src="https://user-images.githubusercontent.com/106850340/215276765-decbd563-07df-4248-9724-c185bf7c8d41.svg" height="40" width="52" alt="prisma        logo"/>
-  </a>
+     <img src="https://user-images.githubusercontent.com/106850340/215276960-6a4efd97-ad69-4906-82bb-e5f015af52ea.svg" height="40" width="52" alt="prisma        logo"/>
+  </a>  
 </div>
 <div align="left">
   <a href="https://www.postgresql.org/" target="_blank">
