@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Technologies and tools i use:</h2>
+<h2 align="left">Technologies and tools I'm used to:</h2>
 
 ###
 
@@ -61,9 +61,9 @@
   <a href="https://www.mongodb.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   </a>
-  <a href="https://www.prisma.io/" target="_blank">
-     <img src="https://user-images.githubusercontent.com/106850340/215276960-6a4efd97-ad69-4906-82bb-e5f015af52ea.svg" height="40" width="52" alt="prisma        logo"/>
-  </a>  
+  <a href="https://redis.io/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+  </a> 
 </div>
 <div align="left">
   <a href="https://www.postgresql.org/" target="_blank">
@@ -72,9 +72,9 @@
   <a href="https://www.mysql.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   </a>
-  <a href="https://redis.io/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
-  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+     <img src="https://user-images.githubusercontent.com/106850340/215276960-6a4efd97-ad69-4906-82bb-e5f015af52ea.svg" height="40" width="52" alt="prisma        logo"/>
+  </a> 
   <a href="https://www.docker.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   </a>
