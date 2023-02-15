@@ -34,8 +34,6 @@
 
 <h2 align="left">Technologies and tools I'm used to:</h2>
 
-###
-
 <div align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
