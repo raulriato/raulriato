@@ -22,7 +22,7 @@
 
 <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=raulriato" height="144" alt="stats graph"  />
 
-<img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=4&theme=tokyonight&hide_border=false&username=raulriato" height="138" alt="languages graph"  /> 
+<img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=4&theme=tokyonight&hide_border=false&username=raulriato" height="160" alt="languages graph"  /> 
 
 <p align="left">✨ Creating bugs since 2022<br>
   <br>📚 I'm currently learning <strong>Redis</strong><br>
