@@ -2,7 +2,7 @@
 
 <h3>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /></h3>
 
-<p align="left">My name is Raul Riato and I'm learning Software Engineering at Driven Education in Brazil.</p>
+<p align="left">My name is Raul Riato and I'm a Full Stack Developer at Nuai in Brazil.</p>
 
 ###
 
@@ -25,7 +25,7 @@
 <img align="right" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=4&theme=tokyonight&hide_border=false&username=raulriato" height="160" alt="languages graph"  /> 
 
 <p align="left">✨ Creating bugs since 2022<br>
-  <br>📚 I'm currently learning <strong>Redis</strong><br>
+  <br>📚 I'm currently learning <strong>Next.js</strong><br>
   <br>🎯 Always trying to make the world a better place to live<br>
   <br>🎲 I'm passionate about games of all kind<br>
   <br>:notes: One of the most random music tastes you'll see, probably</p>
