@@ -59,9 +59,6 @@
   <a href="https://www.mongodb.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   </a>
-  <a href="https://redis.io/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
-  </a> 
 </div>
 <div align="left">
   <a href="https://www.postgresql.org/" target="_blank">
@@ -75,9 +72,6 @@
   </a> 
   <a href="https://www.docker.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52"                      alt="amazonwebservices logo"  />
   </a>
   <a href="https://www.figma.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
