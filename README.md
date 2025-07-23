@@ -2,7 +2,7 @@
 
 <h3>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /></h3>
 
-<p align="left">My name is Raul Riato and I'm a Full Stack Developer at Nuai in Brazil.</p>
+<p align="left">My name is Raul Riato and I'm a Full Stack Developer at Mundomidia in Brazil.</p>
 
 ###
 
